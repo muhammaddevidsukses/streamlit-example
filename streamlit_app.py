@@ -383,7 +383,7 @@ with kekerasan_anak:
     with kekerasan_desc_col:
         st.write(
             """
-   
+   ok
             """
         )
     with kekerasan_corr_col:
@@ -393,4 +393,4 @@ with kekerasan_anak:
         )
 
 st.markdown("<h3>Solusi/Saran</h3>", unsafe_allow_html=True)
-"""
+""""
